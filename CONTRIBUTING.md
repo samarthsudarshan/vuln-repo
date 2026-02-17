@@ -13,7 +13,7 @@ To get started with contributing, please follow these steps:
 
 ## Testing
 
-To set up a local development environment for this [Jekyll](https://jekyllrb.com/docs/installation/ubuntu/) site:
+To set up a local dev environment for this [Jekyll](https://jekyllrb.com/docs/installation/ubuntu/) site:
 
 1. Install Jekyll and its required dependencies for your operating system. See [Installation](https://jekyllrb.com/docs/installation/).
 2. Clone this repository, for example:
